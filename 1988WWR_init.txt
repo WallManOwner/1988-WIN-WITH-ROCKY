@@ -343,7 +343,7 @@ document.head.innerHTML += `
     background-image: url('https://i.ibb.co/DHnznn6H/image.png') !important;
     background-repeat: repeat !important;
     background-size: 200px 200px !important; /* adjust tile size */
-    background-position: top left !important;
+    background-position: center !important;
   }
 
   /* Main game window styling — tiled background */
@@ -351,8 +351,8 @@ document.head.innerHTML += `
     background-color: #1d776d !important; /* fallback color */
     background-image: url('https://i.ibb.co/DHnznn6H/image.png') !important;
     background-repeat: repeat !important;
-    background-size: 300px 300px !important; /* adjust separately if you want */
-    background-position: top left !important;
+    background-size: 200px 200px !important; /* adjust separately if you want */
+    background-position: center !important;
   }
 </style>`;
 
