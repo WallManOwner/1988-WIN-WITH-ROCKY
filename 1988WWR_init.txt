@@ -29,7 +29,7 @@ campaignTrail_temp.election_json = [
         "pk": 15,
         "fields": {
             "year": 1988,
-            "summary": "<p>After eight years of Ronald Reagan, the nation must decide whether it wants to stay with the Republicans or move in a new direction with the democrats.</p><ul><li>Jay Rockefeller, Senator of West Virginia, is a new figure on the national scene. Being socially moderate while being economically liberal, Rockefeller hopes to bring America towards a more liberal direction while reassuring the Progressive and Conservative wings of the party.</li><p><li>George Bush is Reagan's Vice President. Even with President Reagan's high approval rating, he is evenly tied with Rockefeller in the polls. Bush must find some way to shake up the race. He could emphasize the strong economy, or be on the offensive against Rockefeller.</p>",
+            "summary": "<p>After eight years of Ronald Reagan, the nation must decide whether it wants to stay with the Republicans or move in a new direction with the democrats.</p><ul><li>Jay Rockefeller, Senator of West Virginia, is a new figure on the national scene. Being socially moderate while being economically liberal, Rockefeller hopes to bring America towards a more liberal direction while reassuring the Progressive and Conservative wings of the party.</li><p><li>George Bush is Reagan's Vice President. Even with President Reagan's high approval rating, he is evenly tied with Rockefeller in the polls. Bush must find some way to shake up the race. He could emphasize the strong economy, or play offensive and question Rockefeller's campaign.</p>",
             "image_url": "https://i.ibb.co/TMDVbmSG/Untitled457-20251014115536.png",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://www.jetsimon.com/public/static/images/atwater-estrich-1988.jpg",
@@ -76,7 +76,7 @@ campaignTrail_temp.candidate_json = [
             "party": "Democrat",
             "state": "West Virginia",
             "priority": 1,
-            "description": "Jay Rockefeller <i>(Real Name John D. Rockefeller IV)</i> is no stranger to politics, having been elected twice as Governor of West Virginia and was recently elected to the Senate. Throughout his career, he has maintained strong approval ratings. Although he usually works with the party's moderates, Rockefeller holds many progressive stances, including fair trade, the expansion of Healthcare, as well as being pro-union, which will excite Progressives who are disappointed about Jesse Jackson lost the nomination. <p>Outside of West Virginia, Rockefeller is largely unknown nationally, with many people calling his nomination a fluke. As a member of the Rockefeller family, a traditionally Republican family he is often seen as the black sheep. His nomination has also prompted awkward conversations within the party about how a wealthy man could possibly represent them.\n\n",
+            "description": "Jay Rockefeller <i>(Real Name John D. Rockefeller IV)</i> is no stranger to politics, having been elected twice as Governor of West Virginia and was recently elected to the Senate. Throughout his career, he has maintained strong approval ratings. Although he usually works with the party's moderates, Rockefeller holds many progressive stances, including fair trade, the expansion of Healthcare, as well as being pro-union, which will excite Progressives who are disappointed about Jesse Jackson losing the nomination. <p>Outside of West Virginia, Rockefeller is largely unknown nationally, with many people calling his nomination a fluke. As a member of the Rockefeller family, a traditionally Republican family, he is often seen as the black sheep; however, this has prompted awkward conversations within the party about how a wealthy man could possibly represent them.",
             "color_hex": "#2f5755",
             "secondary_color_hex": "#90C0FF",
             "is_active": 1,
@@ -176,7 +176,9 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>John Glenn is a Senator from Ohio, whose name has been in the mix for President or Vice President for several years. He originally gained fame as an astronaut in the 1960s, and has fostered a reputation as a moderate Democrat, with a particular interest in science and education. Needless to say, he comes from a crucial state in any national election.</p>",
+            "description_as_running_mate": "<p>John Glenn is the Senator of Ohio and is a perfect pick for Rockefeller's campaign. Being the third American in space and the first to orbit the Earth, circling it three times in 1962, has made him a celebrity throughout the country, and this isn't he first time playing in Presidential politics, running previously in the 84 primary as well as being a VP option in many shortlists. Politically, though Glenn is a self-described centrist, which would neither offend nor please any wing of the party, but the potential press from choosing a man like Glen is too good to refuse.
+
+</p>",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -306,7 +308,7 @@ jet_data = {
     "innerWindowColor": "#5a9690",
     "bannerImageUrl": "https://i.ibb.co/fVjcnHpN/Untitled459-20251014190455.png",
     "backgroundImageUrl": "https://i.ibb.co/1tTvx9RN/IMG-0667.webp",
-    "endingTextColor": "#000000",
+    "endingTextColor": "#ffffff",
     "customQuote": "",
     "gameTitle": "WIN WITH ROCKY!"
 }
@@ -314,7 +316,7 @@ jet_data = {
 //#startcode
 
 
-corrr = '\n              <h2 style="font-style: normal;"><b>WIN WITH ROCKY!</b></h2>\n            ';
+corrr = '\n              <h2 style="font-style: normal;"><b><b>WIN WITH ROCKY!</b></b></h2>\n            ';
 
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#132440";
