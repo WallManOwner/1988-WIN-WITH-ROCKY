@@ -259,7 +259,7 @@ campaignTrail_temp.running_mate_json = [
         "pk": 102,
         "fields": {
             "candidate": 153,
-            "running_mate": 160
+            "running_mate": 159
         }
     }
 ]
