@@ -160,7 +160,7 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 159,
+        "pk": 160,
         "fields": {
             "first_name": "John",
             "last_name": "Glenn",
@@ -259,7 +259,7 @@ campaignTrail_temp.running_mate_json = [
         "pk": 102,
         "fields": {
             "candidate": 153,
-            "running_mate": 159
+            "running_mate": 160
         }
     }
 ]
