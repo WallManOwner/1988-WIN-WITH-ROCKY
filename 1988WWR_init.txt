@@ -304,7 +304,7 @@ jet_data = {
     "windowColor": "#5a9690",
     "containerColor": "#006a67",
     "innerWindowColor": "#5a9690",
-    "bannerImageUrl": "https://i.ibb.co/fVjcnHpN/Untitled459-20251014190455.png",
+    "bannerImageUrl": "https://i.ibb.co/jcg3wvR/44-F9-AE69-37-E5-4-A6-B-9499-CCB24-E3-DB514.png",
     "backgroundImageUrl": "https://i.ibb.co/1tTvx9RN/IMG-0667.webp",
     "endingTextColor": "#ffffff",
     "customQuote": "",
@@ -327,7 +327,7 @@ $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selected
 
 $(".container")[0].style.backgroundColor = "#006a67";
 
-document.getElementById("header").src = "https://i.ibb.co/fVjcnHpN/Untitled459-20251014190455.png";
+document.getElementById("header").src = "https://i.ibb.co/jcg3wvR/44-F9-AE69-37-E5-4-A6-B-9499-CCB24-E3-DB514.png";
 
 document.body.background = "https://i.ibb.co/1tTvx9RN/IMG-0667.webp";
 
