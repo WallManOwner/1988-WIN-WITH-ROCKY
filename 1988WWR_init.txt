@@ -573,6 +573,14 @@ var soundtracks = {
         "url": "https://files.catbox.moe/6yy86u.mp3"
       },
       {
+        "name": "The Dead Milkmen - Punk Rock Girl",
+        "url": "https://files.catbox.moe/ju9xen.mp3"
+      },
+      {
+        "name": "Frank Zappa - Dumb All Over",
+        "url": "https://files.catbox.moe/oydgmz.mp3"
+      },
+      {
         "name": "They Might Be Giants - Ana Ng",
         "url": "https://files.catbox.moe/a1togx.mp3"
       },
