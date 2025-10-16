@@ -176,7 +176,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>John Glenn, Senator of Ohio is the perfect pick for Rockefeller's campaign.</p> <p>Being the third American in space and the first to orbit the Earth, circling it three times in 1962, has made him a celebrity throughout the country, and this isn't the first time playing in Presidential politics, running previously in the 84 primary as well as being a VP option in many shortlists. Politically, though Glenn is a self-described centrist, which would neither offend nor please any wing of the party, but the potential press from choosing a man like Glen is too good to refuse.</p>",
+            "description_as_running_mate": "<p>John Glenn, Senator of Ohio is the perfect pick for Rockefeller's campaign.</p> <p>Being the third American in space and the first to orbit the Earth, circling it three times in 1962, has made him a celebrity throughout the country, and this isn't the first time playing in Presidential politics, running previously in the 84 primary as well as being a VP option in many shortlists. Politically, though Glenn is a self-described centrist, which would neither offend nor please any wing of the party, but the potential press from choosing a man like Glenn is too good to refuse.</p>",
             "candidate_score": 0,
             "running_mate": true
         }
