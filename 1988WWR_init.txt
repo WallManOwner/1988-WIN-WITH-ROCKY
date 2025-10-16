@@ -566,15 +566,23 @@ clamp = function(a, max, min, overflow=true) {
 
 var soundtracks = {   
   0: {
-    name: "Morning in America",
+    name: "Rocky!",
     tracklist: [
       {
-        "name": "Lee Greenwood - God Bless The U.S.A.",
-        "url": "https://audio.jukehost.co.uk/7OUn9g8P1Hb4zU24sIAI1KDCaae1C0V0"
+        "name": "A Flock of Seagulls - I ran (So Far Away)",
+        "url": "https://files.catbox.moe/6yy86u.mp3"
       },
       {
-        "name": "Bruce Springsteen - Born In The U.S.A.",
-        "url": "https://audio.jukehost.co.uk/NpE341xANcJT0eo2xcfUbn8seSltU35E"
+        "name": "They Might Be Giants - Ana Ng",
+        "url": "https://files.catbox.moe/a1togx.mp3"
+      },
+      {
+        "name": "David Bowie - Modern Love",
+        "url": "https://files.catbox.moe/dqurxx.mp3"
+      },
+      {
+        "name": "The B-52 s - Private Idaho",
+        "url": "https://files.catbox.moe/h2oof2.mp3"
       },
     ]
   }
