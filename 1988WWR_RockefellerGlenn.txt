@@ -9542,6 +9542,14 @@ endingPicker = (out, totv, aa, quickstats) => {
         return `<h1 style="background-color:#27747;">The Long Con</h1> <p style="background-color:#27747;">As the results of each state started to slowly come in. Jay Rockefeller sat there thinking, thinking on how the public could of possible be so foolish. The Great Grandson of John D. Rockefeller, the wealthiest American of all time, a man so despised for his monopolistic tactics has finally taken over Washington despite the great struggle to stop his family in the past and there is no one to stop him now. The thought was so funny to him, Rockefeller started audibly laughing as hard as he can. </p><p style="background-color:#27747;">John Glenn, who was sitting aside of him was feeling awkward to see his new boss acting this way. Glenn would try to initiate a conversation to knock him out of whatever trance he's currently in.</p>
 <p style="background-color:#27747;"><i>"So Jay, what is your thoughts on this large victory?"</i></p> <p style="background-color:#27747;">Jay would ignore the question and murmur to himself <i>"Competition is a sin."</i> and proceed to exit the room holding a small white rectangle with the text <i>"Spacebar"</i>...</p>`;
     }
+    if(quickstats[0] > 326) {
+        setImage("https://i.ibb.co/kstHbFMc/Untitled471-20251016175805.png");
+        return `<h1>"Rocky Rolls Into The White House!</h1>
+
+<p>Well it sure wasn't easy, but it wasn't hard either. The media always placed Rockefeller as the favorite to win but it was always believed the results were going to be evenly tied with Vice-President Bush with both of them running strong campaigns against each other. </p>
+
+<p>With your new Vice-President John Glenn on your side and with control of the House, and Senate, there is little stopping you now to pass your legislation, metaphorically just like Glenn your Presidency is going to start off with a blast off!</p>`;
+    }
 }
 
 
@@ -9555,6 +9563,14 @@ campaignTrail_temp.jet_data = [{
             "amount": "538",
             "endingImage": "https://i.ibb.co/NGqqDMV/image.png",
             "endingText": "<h1 style=\"background-color:#27747;\">The Long Con</h1> <p style=\"background-color:#27747;\">As the results of each state started to slowly come in. Jay Rockefeller sat there thinking, thinking on how the public could of possible be so foolish. The Great Grandson of John D. Rockefeller, the wealthiest American of all time, a man so despised for his monopolistic tactics has finally taken over Washington despite the great struggle to stop his family in the past and there is no one to stop him now. The thought was so funny to him, Rockefeller started audibly laughing as hard as he can. </p><p style=\"background-color:#27747;\">John Glenn, who was sitting aside of him was feeling awkward to see his new boss acting this way. Glenn would try to initiate a conversation to knock him out of whatever trance he's currently in.</p>\n<p style=\"background-color:#27747;\"><i>\"So Jay, what is your thoughts on this large victory?\"</i></p> <p style=\"background-color:#27747;\">Jay would ignore the question and murmur to himself <i>\"Competition is a sin.\"</i> and proceed to exit the room holding a small white rectangle with the text <i>\"Spacebar\"</i>...</p>"
+        },
+        "1760654909622": {
+            "id": 1760654909622,
+            "variable": 0,
+            "operator": ">",
+            "amount": "326",
+            "endingImage": "https://i.ibb.co/kstHbFMc/Untitled471-20251016175805.png",
+            "endingText": "<h1>\"Rocky Rolls Into The White House!</h1>\n\n<p>Well it sure wasn't easy, but it wasn't hard either. The media always placed Rockefeller as the favorite to win but it was always believed the results were going to be evenly tied with Vice-President Bush with both of them running strong campaigns against each other. </p>\n\n<p>With your new Vice-President John Glenn on your side and with control of the House, and Senate, there is little stopping you now to pass your legislation, metaphorically just like Glenn your Presidency is going to start off with a blast off!</p>"
         }
     }
 }
